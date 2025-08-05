@@ -1,0 +1,1 @@
+worker: python azizauto_bot.py
